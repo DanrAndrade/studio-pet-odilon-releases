@@ -1,6 +1,6 @@
 {
-  "versao": "0.5.1",
-  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.1.apk",
-  "notas": "Planos no formato do contrato (mensal 4 banhos, quinzenal 2 banhos, até 6 meses), histórico com reabrir e desfazer, módulo de aniversários, portes e mensagens do Odilon, campos formatados, menu em pé e revisão completa do faturamento",
-  "publicadoEm": "2026-09-18T15:58:35Z"
+  "versao": "0.5.2",
+  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.2.apk",
+  "notas": "Endereço do tutor em campos separados (CEP, rua, número, bairro, cidade, UF) com busca automática pelo CEP; plano sem o campo de intervalo",
+  "publicadoEm": "2026-09-24T13:58:40Z"
 }
