@@ -1,6 +1,6 @@
 {
-  "versao": "0.5.2",
-  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.2.apk",
-  "notas": "Endereço do tutor em campos separados (CEP, rua, número, bairro, cidade, UF) com busca automática pelo CEP; plano sem o campo de intervalo",
-  "publicadoEm": "2026-09-24T13:58:40Z"
+  "versao": "0.5.3",
+  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.3.apk",
+  "notas": "Segundo responsável (nome e telefone) no cadastro do tutor; busca sem acento e por qualquer um dos nomes ou telefones; ordem alfabética e busca em Planos, Serviços, listas e Lixeira",
+  "publicadoEm": "2026-10-06T03:14:10Z"
 }
