@@ -1,6 +1,12 @@
 {
-  "versao": "0.5.4",
-  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.4.apk",
-  "notas": "Preço editável na finalização (intercorrências e mudanças de última hora); preços de exemplo não cadastrados zerados; aviso de serviços sem preço",
-  "publicadoEm": "2026-10-15T21:59:28Z"
+  "versao": "0.5.5",
+  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.5.apk",
+  "notas": "Cobrança do plano no 1º banho de cada mês; ao remarcar um banho do plano, escolher só este ou este e os seguintes; busca sem letra repetida; serviços e listas em ordem alfabética; atualização automática",
+  "publicadoEm": "2026-10-17T02:53:55Z",
+  "web": {
+    "versao": "0.5.5",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.5.zip",
+    "sha256": "bc9f47818a4b5c2d6ca153faf1f7cc97cdd7e19986e19114c1b320a4645060b0",
+    "nativoMinimo": 505
+  }
 }
