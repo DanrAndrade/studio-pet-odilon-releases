@@ -1,12 +1,12 @@
 {
-  "versao": "0.5.5",
-  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.5.apk",
-  "notas": "Cobrança do plano no 1º banho de cada mês; ao remarcar um banho do plano, escolher só este ou este e os seguintes; busca sem letra repetida; serviços e listas em ordem alfabética; atualização automática",
-  "publicadoEm": "2026-10-17T02:53:55Z",
+  "versao": "0.5.6",
+  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.6.apk",
+  "notas": "Acentos no teclado físico; filtros nas listas; reabrir com relógio parado e botão Pausar/Retomar; pago/não pago pelo Histórico; faturamento pelo que foi pago; atendimento fecha sem pagamento por padrão; Boleto",
+  "publicadoEm": "2026-10-20T14:50:32Z",
   "web": {
-    "versao": "0.5.5",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.5.zip",
-    "sha256": "bc9f47818a4b5c2d6ca153faf1f7cc97cdd7e19986e19114c1b320a4645060b0",
-    "nativoMinimo": 505
+    "versao": "0.5.6",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.6.zip",
+    "sha256": "63513b1bfbeaf1c382db4ac566a77eb47838d992192a1a65e6e15b8382a9aa60",
+    "nativoMinimo": 506
   }
 }
