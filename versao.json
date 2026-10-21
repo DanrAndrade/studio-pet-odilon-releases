@@ -1,12 +1,12 @@
 {
-  "versao": "0.5.6",
-  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.6.apk",
-  "notas": "Acentos no teclado físico; filtros nas listas; reabrir com relógio parado e botão Pausar/Retomar; pago/não pago pelo Histórico; faturamento pelo que foi pago; atendimento fecha sem pagamento por padrão; Boleto",
-  "publicadoEm": "2026-10-20T14:50:32Z",
+  "versao": "0.5.7",
+  "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.7.apk",
+  "notas": "Planos com valor e mensalidade no Histórico, Agenda, folha do plano e finalização; fichas com total pago e não pago; repetir a cada 15 dias com aviso de dia fechado; correções de pagamento, reabertura, cancelamento e teclado físico",
+  "publicadoEm": "2026-10-21T12:42:45Z",
   "web": {
-    "versao": "0.5.6",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.6.zip",
-    "sha256": "63513b1bfbeaf1c382db4ac566a77eb47838d992192a1a65e6e15b8382a9aa60",
-    "nativoMinimo": 506
+    "versao": "0.5.7",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.7.zip",
+    "sha256": "dd3a01ab5ae7e30e8170cb6cdc199baacfb6f792e620b40f2fbbc58cc297962a",
+    "nativoMinimo": 507
   }
 }
