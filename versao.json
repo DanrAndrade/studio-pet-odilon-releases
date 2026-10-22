@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Quinzenal a cada 2 semanas no mesmo dia da semana (planos e repetir); datas quinzenais antigas corrigidas; cascata 'este e os seguintes' em todos os meses; correções de mensalidade, reabertura e teclado",
-  "publicadoEm": "2026-10-22T14:09:10Z",
+  "notas": "Este e os seguintes recontam todas as datas a partir do banho alterado; botão Refazer as datas a partir do 1º banho; mensalidade adiantada",
+  "publicadoEm": "2026-10-22T15:46:21Z",
   "web": {
-    "versao": "0.5.8",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.8.zip",
-    "sha256": "c39a1caae24c8046120712df6235330c46d4bf042239805a0ad7b1a3f65752bb",
+    "versao": "0.5.9",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.5.9.zip",
+    "sha256": "52f4aca2fa9ccde93b6393a4cfb4e8aa2c58162402a413a7c35bd0df61db2e2c",
     "nativoMinimo": 508
   }
 }
