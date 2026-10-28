@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Datas dos planos voltam ao ritmo do 1º banho; desmarcar serviço que o pet não fez ao finalizar",
-  "publicadoEm": "2026-10-24T19:16:49Z",
+  "notas": "Pagamento em mais de uma forma; marcar vários pets do mesmo tutor de uma vez",
+  "publicadoEm": "2026-10-28T14:06:24Z",
   "web": {
-    "versao": "0.6.0",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.0.zip",
-    "sha256": "032d0f7dddada800062360935e8835208217bbe7645a5741cada471ac3c5d8e1",
+    "versao": "0.6.1",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.1.zip",
+    "sha256": "7e1dddd7fab11837a054f6cca4f3b54cb94ecb18f8253b355f446623c11af587",
     "nativoMinimo": 508
   }
 }
