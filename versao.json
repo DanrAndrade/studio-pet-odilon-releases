@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Pagamento em mais de uma forma; marcar vários pets do mesmo tutor de uma vez",
-  "publicadoEm": "2026-10-28T14:06:24Z",
+  "notas": "Quantidade de pets e tutores cadastrados no Perfil e em Clientes",
+  "publicadoEm": "2026-10-30T13:16:53Z",
   "web": {
-    "versao": "0.6.1",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.1.zip",
-    "sha256": "7e1dddd7fab11837a054f6cca4f3b54cb94ecb18f8253b355f446623c11af587",
+    "versao": "0.6.2",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.2.zip",
+    "sha256": "0ec8ab857b5234c3027d7e28113c0ee7863acca9f154eb941b7782f5ca555585",
     "nativoMinimo": 508
   }
 }
