@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Quantidade de pets e tutores cadastrados no Perfil e em Clientes",
-  "publicadoEm": "2026-10-30T13:16:53Z",
+  "notas": "Horário de funcionamento por dia (sábado e almoço); pagamento em outro dia aparece no Histórico no dia em que foi pago",
+  "publicadoEm": "2026-11-03T22:50:00Z",
   "web": {
-    "versao": "0.6.2",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.2.zip",
-    "sha256": "0ec8ab857b5234c3027d7e28113c0ee7863acca9f154eb941b7782f5ca555585",
+    "versao": "0.6.3",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.3.zip",
+    "sha256": "d72727af66d45fa138d713c831ab78280b8f3146f12e99600011c90c8ebf5e2a",
     "nativoMinimo": 508
   }
 }
