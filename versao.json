@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Horário de funcionamento por dia (sábado e almoço); pagamento em outro dia aparece no Histórico no dia em que foi pago",
-  "publicadoEm": "2026-11-03T22:50:00Z",
+  "notas": "Mensalidade cobrada no 1º banho de cada mês do pacote; repetir até 6 meses (24 semanal, 12 quinzenal)",
+  "publicadoEm": "2026-11-04T00:30:25Z",
   "web": {
-    "versao": "0.6.3",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.3.zip",
-    "sha256": "d72727af66d45fa138d713c831ab78280b8f3146f12e99600011c90c8ebf5e2a",
+    "versao": "0.6.4",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.4.zip",
+    "sha256": "1baa0e2ea26e82a6e69128cdf7ce1d4163408984dd087abb5adb18deaf42f43f",
     "nativoMinimo": 508
   }
 }
