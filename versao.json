@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Horário ocupado só pela hora de chegada; tirar serviço no atendimento; horário da loja informado; o que mudou no sino",
-  "publicadoEm": "2026-11-04T01:05:13Z",
+  "notas": "Histórico mostra data do atendimento e data do pagamento em cada linha; pagamento aparece na ficha do pet",
+  "publicadoEm": "2026-11-09T00:43:57Z",
   "web": {
-    "versao": "0.6.5",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.5.zip",
-    "sha256": "f20684ae1c2e95649c9d5ff21ce7b75c319ae2493b290ad6dbff2d940b3c3324",
+    "versao": "0.6.6",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.6.zip",
+    "sha256": "543636c5bd701fc7c1578bc2d7a1757c0a3f9c951924399946803046ce2bdebf",
     "nativoMinimo": 508
   }
 }
