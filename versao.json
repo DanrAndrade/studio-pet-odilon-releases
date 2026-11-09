@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Histórico mostra data do atendimento e data do pagamento em cada linha; pagamento aparece na ficha do pet",
-  "publicadoEm": "2026-11-09T00:43:57Z",
+  "notas": "Um cronômetro só por atendimento (da chegada até finalizar); outros serviços entram só com o valor; mensalidade recebida ao finalizar fica no dia do pagamento escolhido; pets juntos com o tempo de cada um; correções de textos",
+  "publicadoEm": "2026-11-09T02:23:21Z",
   "web": {
-    "versao": "0.6.6",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.6.6.zip",
-    "sha256": "543636c5bd701fc7c1578bc2d7a1757c0a3f9c951924399946803046ce2bdebf",
+    "versao": "0.7.1",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.7.1.zip",
+    "sha256": "ff80bb9f009a8348945978ec4afc8b142586e0794b6ff2fa708328660658e275",
     "nativoMinimo": 508
   }
 }
