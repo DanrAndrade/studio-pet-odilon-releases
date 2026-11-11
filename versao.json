@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Um cronômetro só por atendimento (da chegada até finalizar); outros serviços entram só com o valor; mensalidade recebida ao finalizar fica no dia do pagamento escolhido; pets juntos com o tempo de cada um; correções de textos",
-  "publicadoEm": "2026-11-09T02:23:21Z",
+  "notas": "Serviços agora são Banho ou Complemento; combos de banho; tempo previsto só do banho (corrige visitas de 4h); banho avulso já feito pode virar o 1º banho do plano (Histórico: Colocar num plano), abatendo da mensalidade",
+  "publicadoEm": "2026-11-11T14:50:41Z",
   "web": {
-    "versao": "0.7.1",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.7.1.zip",
-    "sha256": "ff80bb9f009a8348945978ec4afc8b142586e0794b6ff2fa708328660658e275",
+    "versao": "0.8.0",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.0.zip",
+    "sha256": "333bda68fd4cf72587c9234459943f2cc160bf0afb868663f28823ea5f74d0b3",
     "nativoMinimo": 508
   }
 }
