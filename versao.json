@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Botão Receber adiantado mais visível (roxo, logo abaixo do Total) e caixa verde Pago adiantado; pagamento adiantado de agendamento futuro (agendamento ou ficha do tutor)",
-  "publicadoEm": "2026-11-13T03:02:55Z",
+  "notas": "Pagou com mais de uma forma agora e um botao de verdade (borda roxa e icone), na tela de finalizar e na janela de receber pagamento; Desfazer pagamento adiantado tambem",
+  "publicadoEm": "2026-11-13T03:15:41Z",
   "web": {
-    "versao": "0.8.2",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.2.zip",
-    "sha256": "03b8aa8f96f28594e70a2349b3a35161ea0950f55aa42fd98ae00f12ca94915b",
+    "versao": "0.8.3",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.3.zip",
+    "sha256": "a6b4771b6bd94c7a18ea974cab4ef831d83862322afd12392e0035d652f5a791",
     "nativoMinimo": 508
   }
 }
