@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Serviços agora são Banho ou Complemento; combos de banho; tempo previsto só do banho (corrige visitas de 4h); banho avulso já feito pode virar o 1º banho do plano (Histórico: Colocar num plano), abatendo da mensalidade",
-  "publicadoEm": "2026-11-11T14:50:41Z",
+  "notas": "Pagamento adiantado: marque como pago direto no banho agendado (Receber adiantado) ou vários de uma vez na ficha do tutor; entra no Faturamento no dia em que o cliente pagou e, no dia do atendimento, já vem como pago",
+  "publicadoEm": "2026-11-13T01:31:36Z",
   "web": {
-    "versao": "0.8.0",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.0.zip",
-    "sha256": "333bda68fd4cf72587c9234459943f2cc160bf0afb868663f28823ea5f74d0b3",
+    "versao": "0.8.1",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.1.zip",
+    "sha256": "f7a6c360110e686febb2a4bf523dc50c200166c6553287c7d0b0c78ddd884e31",
     "nativoMinimo": 508
   }
 }
