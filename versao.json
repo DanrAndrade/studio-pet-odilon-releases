@@ -1,12 +1,12 @@
 {
   "versao": "0.5.8",
   "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/StudioPetOdilon-0.5.8.apk",
-  "notas": "Pagou com mais de uma forma agora e um botao de verdade (borda roxa e icone), na tela de finalizar e na janela de receber pagamento; Desfazer pagamento adiantado tambem",
-  "publicadoEm": "2026-11-13T03:15:41Z",
+  "notas": "Receber adiantado agora aparece em todo agendamento avulso, mesmo sem valor cadastrado (a janela pede o valor que o cliente pagou); banho de plano avisa e leva a mensalidade no plano; botoes de pagamento padronizados",
+  "publicadoEm": "2026-11-13T19:20:16Z",
   "web": {
-    "versao": "0.8.3",
-    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.3.zip",
-    "sha256": "a6b4771b6bd94c7a18ea974cab4ef831d83862322afd12392e0035d652f5a791",
+    "versao": "0.8.5",
+    "url": "https://raw.githubusercontent.com/DanrAndrade/studio-pet-odilon-releases/main/web-0.8.5.zip",
+    "sha256": "272870ef4f18579f43eac68d1b5aea45d2f96467f0d9a63d87bb187b225371e6",
     "nativoMinimo": 508
   }
 }
